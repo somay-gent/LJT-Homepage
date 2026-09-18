@@ -14,29 +14,6 @@ My research focuses on **Natural Language Processing (NLP)** and **Machine Learn
 - Hallucination in Vision-Language Models (VLMs)
 - LLM Truthfulness and Interpretability
 
-Education
-======
-* **Ph.D. in Computer Science** (2024 - Present)  
-  Hong Kong University of Science and Technology (HKUST)  
-  Advisor: Professor Junxian He
-
-* **B.Eng.** (2020 - 2024)  
-  Shanghai Jiao Tong University (SJTU)  
-  Honors: Zhiyuan Honor Scholarship
-
-Research Experience
-======
-* **Research Intern** (February 2025 - Present)  
-  MINIMAX
-
-* **Research Intern** (June 2024 - September 2024)  
-  Tencent WXG  
-  Advisor: Zifei Shan
-
-* **Research Intern** (June 2023 - December 2023)  
-  Shanghai AI Lab  
-  Advisor: Prof. Yu Cheng
-
 Publications
 ======
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)  
@@ -64,6 +41,29 @@ Publications
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023)  
    Jinghan Zhang, Shiqi Chen, *Junteng Liu*, Junxian He  
    NeurIPS 2023
+
+Education
+======
+* **Ph.D. in Computer Science** (2024 - Present)  
+  Hong Kong University of Science and Technology (HKUST)  
+  Advisor: Professor Junxian He
+
+* **B.Eng.** (2020 - 2024)  
+  Shanghai Jiao Tong University (SJTU)  
+  Honors: Zhiyuan Honor Scholarship
+
+Research Experience
+======
+* **Research Intern** (February 2025 - Present)  
+  MINIMAX
+
+* **Research Intern** (June 2024 - September 2024)  
+  Tencent WXG  
+  Advisor: Zifei Shan
+
+* **Research Intern** (June 2023 - December 2023)  
+  Shanghai AI Lab  
+  Advisor: Prof. Yu Cheng
 
 Contact
 ======
